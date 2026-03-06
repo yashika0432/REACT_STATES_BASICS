@@ -22,3 +22,11 @@ The examples are intentionally simple to help beginners understand the core conc
 - Interactive UI to show state updates
 - Clean and minimal code structure
 - Easy to extend for learning purposes
+
+---
+
+## 🛠️ Tech Stack
+- React
+- JavaScript (ES6+)
+- CSS
+- Vite / Create React App (depending on what you used)
