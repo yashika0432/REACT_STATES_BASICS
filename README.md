@@ -16,3 +16,9 @@ The examples are intentionally simple to help beginners understand the core conc
 
 ---
 
+## 🚀 Features
+- Beginner-friendly React examples
+- Demonstrates useState hook
+- Interactive UI to show state updates
+- Clean and minimal code structure
+- Easy to extend for learning purposes
