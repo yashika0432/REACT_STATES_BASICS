@@ -30,3 +30,21 @@ The examples are intentionally simple to help beginners understand the core conc
 - JavaScript (ES6+)
 - CSS
 - Vite / Create React App (depending on what you used)
+
+## ⚙️ Installation
+1. Clone the repository
+   ```
+   git clone https://github.com/yourusername/react-state-basics.git
+   ```
+2. Navigate to the project folder
+   ```
+   cd react-state-basics
+   ```
+3. Install dependencies
+   ```
+   npm install
+   ```
+4. Start the development server
+   ```
+   npm run dev
+   ```
