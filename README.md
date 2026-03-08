@@ -34,7 +34,7 @@ The examples are intentionally simple to help beginners understand the core conc
 ## ⚙️ Installation
 1. Clone the repository
    ```
-   git clone https://github.com/yourusername/react-state-basics.git
+   git clone https://github.com/yashika0432/REACT_STATES_BASICS
    ```
 2. Navigate to the project folder
    ```
