@@ -48,3 +48,12 @@ The examples are intentionally simple to help beginners understand the core conc
    ```
    npm run dev
    ```
+
+---
+
+## 🎯 Learning Goals
+By exploring this project you will understand:
+- Why state is important in React
+- How useState works
+- How React re-renders components
+- Basic state management patterns
