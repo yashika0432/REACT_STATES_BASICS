@@ -57,3 +57,14 @@ By exploring this project you will understand:
 - How useState works
 - How React re-renders components
 - Basic state management patterns
+
+---
+
+## 🤝 Contributing
+Contributions, suggestions, and improvements are welcome!
+Feel free to fork this repo and submit a pull request.
+
+---
+
+## 📄 License
+This project is open source and available under the MIT License.
